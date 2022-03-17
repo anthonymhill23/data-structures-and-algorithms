@@ -80,6 +80,8 @@ const notInFirstArray = (forbiddenValues, arr) => {
   return forVal
 };
 
+
+
 /* ------------------------------------------------------------------------------------------------
 CHALLENGE 6 - Stretch Goal
 
